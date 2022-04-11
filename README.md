@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Syafi Kryan
+## 👋 Hi, I’m Syafi Kryan
 
 <!---
 SyafiKryan/SyafiKryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
